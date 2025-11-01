@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MindPulse AI — Автоматизация для экспертов</title>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5TB3G724QZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-5TB3G724QZ');
+  </script>
+
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      padding: 2rem;
+      background: #f8fafc;
+      margin: 0;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    h1 {
+      color: #1e40af;
+      font-size: 2.2rem;
+      margin: 1.5rem 0;
+    }
+    p {
+      color: #4b5563;
+      line-height: 1.6;
+      font-size: 1.1rem;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 1.5rem;
+      padding: 0.8rem 2rem;
+      background: #3b82f6;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🧠 MindPulse AI</h1>
+    <p>Система автономного управления контентом на основе ИИ.<br>Экономьте время. Масштабируйте влияние.</p>
+    <a href="https://t.me/your_channel" class="btn">Перейти в Telegram</a>
+  </div>
+</body>
+</html>
